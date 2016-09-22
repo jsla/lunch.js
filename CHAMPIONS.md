@@ -24,5 +24,8 @@ West Hollywood - [@davidguttman](https://github.com/davidguttman/)
 
 ## Locations Needing a Champion
 SF Valley
+
 DTLA
+
 Playa Vista
+
