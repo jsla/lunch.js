@@ -1,6 +1,6 @@
 <!-- PLEASE FILL IN ALL AND REMOVE ALL `${ }` -->
 # ${ DTLA, Santa Monica, Culver City, Playa Vista, SF Valley, West Hollywood }
-### Next lunch is Tuesday, ${ January 5th, 2016 } 12:30 PM
+### Next lunch is Tuesday, ${ January 5th, 2016 } at 12:30 PM
 ### @ ${ Location }
 
 
