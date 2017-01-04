@@ -1,7 +1,7 @@
 <!-- PLEASE FILL IN ALL AND REMOVE ALL `${ }` -->
 <!-- TITLE EXAMPLE: `${ Location } - ${ January 5th, 2016 }` -->
 # ${ DTLA, Santa Monica, Culver City, Playa Vista, SF Valley, West Hollywood }
-### Next lunch is Tuesday, ${ January 5th, 2016 } at 12:30 PM
+### Next lunch is Tuesday, ${ January 3rd, 2017 } at 12:30 PM
 ### @ ${ Location }
 
 
