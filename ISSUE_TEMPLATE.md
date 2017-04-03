@@ -17,7 +17,7 @@ As the champion you can pick a place,
 Possible reaction emojis
 :+1: thumbs up
 :-1: thumbs down
-:laughing:
+:smile:
 :tada:
 :confused:
 :heart:
