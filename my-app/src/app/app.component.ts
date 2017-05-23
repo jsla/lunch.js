@@ -1,12 +1,20 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: 'my-app',
+  styleUrls: ['./app.component.css'],
+  template: `
+    <h1>{{title}}</h1>
+    <nav>
+      <a routerLink="/dashboard" routerLinkActive="active">Dashboard</a>
+      <a routerLink="/heroes" routerLinkActive="active">Heroes</a>
+    </nav>
+    <router-outlet></router-outlet>
+  `
 })
+
 export class AppComponent {
-  title: string = 'Lunch.js with Google Maps';
-  lat: number = 51.678418;
-  lng: number = 7.809007;
+  // Title
+  title: string = 'Lunch.js with Google Maps and Tour of Heros';
 }
+

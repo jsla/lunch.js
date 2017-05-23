@@ -6,7 +6,11 @@
   <base href="/">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- html5 up global styles -->
   <link rel="stylesheet" href="./assets/main.css">
+
+  <!-- angular global styles -->
+  <link rel="stylesheet" href="styles.css">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body>
@@ -65,6 +69,9 @@
 							</ul>
 						</footer> -->
 					</section>
+        <!-- angular app -->
+          <app-root>Loading...</app-root>
+        <!-- end angular app -->
 
 				<!-- Footer -->
 					<footer id="footer">
@@ -83,6 +90,5 @@
 					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
 				}
       </script>
-  <app-root>Loading...</app-root>
 </body>
 </html>
