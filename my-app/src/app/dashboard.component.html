@@ -1,4 +1,4 @@
-<h3>Top Heroes</h3>
+<h3>Locations</h3>
 <div class="grid grid-pad">
   <a *ngFor="let hero of heroes"  [routerLink]="['/detail', hero.id]"  class="col-1-4">
     <div class="module hero">
@@ -6,3 +6,4 @@
     </div>
   </a>
 </div>
+<hero-search></hero-search>

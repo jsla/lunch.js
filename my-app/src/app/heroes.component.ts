@@ -7,15 +7,10 @@ import { HeroService } from './hero.service';
 @Component({
   selector: 'app-root',
   templateUrl: './heroes.component.html',
-  styleUrls: ['./heroes.component.css'],
-  providers: [ HeroService ]
+  styleUrls: [ './heroes.component.css' ]
 })
 
 export class HeroesComponent implements OnInit {
-  // Google Maps
-  lat: number = 51.678418;
-  lng: number = 7.809007;
-
   // Heroes
   heroes: Hero[];
   selectedHero: Hero;
@@ -25,7 +20,9 @@ export class HeroesComponent implements OnInit {
     private heroService: HeroService) { }
 
   getHeroes(): void {
-    this.heroService.getHeroes().then(heroes => this.heroes = heroes);
+    this.heroService
+      .getHeroes()
+      .then(heroes => this.heroes = heroes);
   }
 
   ngOnInit(): void {
@@ -34,6 +31,25 @@ export class HeroesComponent implements OnInit {
 
   onSelect(hero: Hero): void {
     this.selectedHero = hero;
+  }
+
+  add(name: string): void {
+    name = name.trim();
+    if (!name) { return; }
+    this.heroService.create(name)
+      .then(hero => {
+        this.heroes.push(hero);
+        this.selectedHero = null;
+      });
+  }
+
+  delete(hero: Hero): void {
+    this.heroService
+        .delete(hero.id)
+        .then(() => {
+          this.heroes = this.heroes.filter(h => h !== hero);
+          if (this.selectedHero === hero) { this.selectedHero = null; }
+        });
   }
 
   gotoDetail(): void {
