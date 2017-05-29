@@ -1,0 +1,22 @@
+{
+  "name": "lunch.js",
+  "version": "1.0.0",
+  "description": "lunch.js site",
+  "main": "lunchjs_prod.js",
+  "scripts": {
+    "start": "node lunchjs_prod.js",
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Sean Westfall",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "engines": {
+    "node": "7.9.0"
+  }
+}
