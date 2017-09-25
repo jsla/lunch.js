@@ -1,6 +1,6 @@
 <!-- PLEASE FILL IN ALL AND REMOVE ALL `${ }` -->
 <!-- TITLE EXAMPLE: `${ Location } - ${ January 5th, 2017 }` -->
-# ${ DTLA, Santa Monica, Culver City, Playa Vista, SF Valley, West Hollywood }
+# ${ DTLA, Santa Monica, Culver City x Playa Vista, Thousand Oaks, West Hollywood, Burbank }
 ### Next lunch is Tuesday, ${ January 3rd, 2017 } at 12:30 PM
 ### @ ${ Location }
 
@@ -15,6 +15,7 @@ As the champion you can pick a place,
 
 <!--
 Possible reaction emojis
+Note that only these emoji are available as GitHub reactions
 :+1: thumbs up
 :-1: thumbs down
 :smile:
