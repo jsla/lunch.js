@@ -45,7 +45,7 @@ In short
 
 ### Selecting a location for lunch
 Try to pick a place with a reasonable price range (~$10 - ~$15) so to accommodate as
-many participates as possible.
+many participants as possible.
 
 In short
 * It's OK to meet at the same place every time if that's what people want to do
