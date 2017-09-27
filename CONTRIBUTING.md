@@ -1,5 +1,10 @@
-# Lunch.js Champion Guide
-So you want to champion a lunch.js event? Great! It's really simple you just have to create and manage a GitHub issue!
+# Lunch.js Champion Guide 🍔🍟🌮🌯🍜🍎🌭🍕 
+So you want to champion a lunch.js event? Great! It's really simple, all you have to do is create and manage a GitHub issue!
+
+## Never used Github before?
+* See this page for setting up and signing into github: [Signing up for a new GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/)
+* See this page for creating a github issue:
+[Creating an issue](https://help.github.com/articles/creating-an-issue/)
 
 
 ## What is this all about?
@@ -14,10 +19,15 @@ The main responsibilities of a lunch champion are as follows,
 
 * Create and manage a GitHub Issue for the location you are Champion of
 * Selecting a location for lunch.
+* Close the GitHub issue after you lunch event has ended.
 * Champion the next month, or find a new champion to take your place.
 
 
 ### Creating the issue
+Starting a lunch begins with clicking the `START A LUNCH` button on the
+main page:
+![Start a Lunch](img/start_a_lunch.jpg)
+
 As you'll see we already have an [issue template](./ISSUE_TEMPLATE.md) to get you started.
 Just make sure you put the date in the title along with the location. Make sure that the
 most up to date information is in the ticket. If the location changes or voting is going on
@@ -33,9 +43,9 @@ In short
 * Make sure time and places are bold and easy to read
 * Include Yelp or Google Maps links for getting easy directions
 
-
 ### Selecting a location for lunch
-blah blah blah...
+Try to pick a place with a reasonable price range (~$10 - ~$15) so to accommodate as
+many participants as possible.
 
 In short
 * It's OK to meet at the same place every time if that's what people want to do
@@ -58,6 +68,9 @@ In short
 * Try to foster conversation
 * Encourage large groups from a single office to not sit together
 
+### Don't forget to close the issue after the event has ended
+![Close a Lunch](img/close_a_lunch.jpg)
+
 
 ### Finding a new champion
 
@@ -70,4 +83,4 @@ In short
 ### Sounds great! Where do I start
 If your area doesn't have an event or champion go ahead and create a ticket!
 To be able to apply labels you'll need to be added as a contributor to the repo.
-Simply mention @ashwell or another js.la organizer in your new ticket to be added as a contributor.
+Simply mention @ashwell, @davidguttman, @seanwestfall or another js.la organizer in your new ticket to be added as a contributor.

@@ -26,4 +26,3 @@ David Guttman - [@davidguttman](https://github.com/davidguttman)
 * [@davidguttman](https://github.com/davidguttman/)
 * [@ashwell](https://github.com/ashwell)
 
-
