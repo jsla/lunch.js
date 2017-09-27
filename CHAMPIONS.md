@@ -5,27 +5,24 @@ the champion organizers through an issue to the repo or the js.la/slack
 
 
 ## Champion Organizers
-@ashwell
+Ryan Bogle - [@ashwell](https://github.com/ashwell)
 
-@davidguttman
-
-
-## Active Locations
-DTLA (Downtown) - [@machikoyasuda](https://github.com/machikoyasuda/)
-
-Santa Monica - [@etanlubeck](https://github.com/etanlubeck/)
-
-Culver City - [@jcblw](https://github.com/jcblw/)
-
-Playa Vista - [@aktary](https://github.com/aktary/)
-
-West Hollywood - [@davidguttman](https://github.com/davidguttman/)
+David Guttman - [@davidguttman](https://github.com/davidguttman)
 
 
-## Locations Needing a Champion
-SF Valley
+## Current and Previous Locations
+* DTLA (Downtown)
+* Santa Monica
+* Culver City x Playa Vista
+* West Hollywood
+* Thousand Oaks
+* Burbank
 
-DTLA
-
-Playa Vista
+## Previous Champions
+* [@machikoyasuda](https://github.com/machikoyasuda/)
+* [@etanlubeck](https://github.com/etanlubeck/)
+* [@jcblw](https://github.com/jcblw/)
+* [@aktary](https://github.com/aktary/)
+* [@davidguttman](https://github.com/davidguttman/)
+* [@ashwell](https://github.com/ashwell)
 

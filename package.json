@@ -1,0 +1,17 @@
+{
+  "name": "lunch.js.la",
+  "version": "1.0.0",
+  "description": "Lunch.js Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve public",
+    "deploy": "surge public"
+  },
+  "keywords": [],
+  "author": "David Guttman <david@guttman.io> (http://davidguttman.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^1.4.0",
+    "surge": "^0.18.0"
+  }
+}
