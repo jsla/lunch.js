@@ -1,14 +1,10 @@
-# Lunch.js Champion Guide
+# 🍔🍟🌮🌯🍜🍎🌭🍕   Lunch.js Champion Guide 🍔🍟🌮🌯🍜🍎🌭🍕 
 So you want to champion a lunch.js event? Great! It's really simple, all you have to do is create and manage a GitHub issue!
 
 ## Never used Github before?
 * See this page for setting up and signing into github: [Signing up for a new GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/)
 * See this page for creating a github issue:
 [Creating an issue](https://help.github.com/articles/creating-an-issue/)
-
-![Join A Lunch](img/join_a_lunch.jpg)
-
-![Start a Lunch](img/start_a_lunch.jpg)
 
 
 ## What is this all about?
