@@ -5,9 +5,9 @@ the champion organizers through an issue to the repo or the js.la/slack
 
 
 ## Champion Organizers
-Ryan Bogle - [@ashwell](https://github.com/ashwell)
-
-David Guttman - [@davidguttman](https://github.com/davidguttman)
+Ryan - [@ashwell](https://github.com/ashwell)<br />
+David - [@davidguttman](https://github.com/davidguttman) <br />
+Rouzbeh - [@rouzbeh84](https://github.com/rouzbeh84)
 
 
 ## Current and Previous Locations
@@ -17,6 +17,7 @@ David Guttman - [@davidguttman](https://github.com/davidguttman)
 * West Hollywood
 * Thousand Oaks
 * Burbank
+
 
 ## Previous Champions
 * [@machikoyasuda](https://github.com/machikoyasuda/)
