@@ -17,7 +17,7 @@ Lunch.js is a monthly neighborhood centric lunch time meetup. This can be an opp
 * Have heated discussions about which framework is better (actually, please don't do this)
 
 
-As of now lunch.js meets on the first Tuesday of every month at 12:30
+As of now lunch.js meets on the first Tuesday of every month at 12:30.
 Check the [issues](https://github.com/jsla/lunch.js/issues) for tickets about upcoming lunch.js events.
 There is no need to "RSVP" just simply comment on the issue that you would like to attend!
 
@@ -36,7 +36,7 @@ The main responsibilities of a lunch champion are as follows,
 
 ### Creating the issue
 Starting a lunch begins with clicking the `START A LUNCH` button on http://lunch.js.la which
-will take you to the "create a new issue" page, https://github.com/jsla/lunch.js/issues/new
+will take you to the "create a new issue" page, [https://github.com/jsla/lunch.js/issues/new](https://github.com/jsla/lunch.js/issues/new)
 
 As you'll see we already have an [issue template](./ISSUE_TEMPLATE.md) to get you started.
 Make sure you put the date and general location (DTLA, West Hollywood, South Bay, etc.) in the title.
