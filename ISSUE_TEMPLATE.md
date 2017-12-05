@@ -1,7 +1,7 @@
 <!-- PLEASE FILL IN ALL AND REMOVE ALL `${ }` -->
-<!-- TITLE EXAMPLE: `${ Location } - ${ January 5th, 2017 }` -->
-# ${ DTLA, Santa Monica, Culver City, Playa Vista, SF Valley, West Hollywood }
-### Next lunch is Tuesday, ${ January 3rd, 2017 } at 12:30 PM
+<!-- TITLE EXAMPLE: `${ Location } - ${ January 2nd, 2018 }` -->
+# ${ DTLA, Santa Monica, Culver City, Playa Vista, Thousand Oaks, West Hollywood, Burbank }
+### Next lunch is Tuesday, ${ January 2nd, 2018 } at 12:30 PM
 ### @ ${ Location }
 
 
@@ -15,6 +15,7 @@ As the champion you can pick a place,
 
 <!--
 Possible reaction emojis
+NOTE: these are the ONLY emoji that are available as GitHub reactions
 :+1: thumbs up
 :-1: thumbs down
 :smile:
@@ -23,3 +24,4 @@ Possible reaction emojis
 :heart:
 -->
 
+If you are planning to attend subscribe to the issue to get notifications for new comments.
