@@ -11,7 +11,7 @@
   "author": "David Guttman <david@guttman.io> (http://davidguttman.com/)",
   "license": "MIT",
   "devDependencies": {
-    "serve": "^1.4.0",
+    "serve": "^11.2.0",
     "surge": "^0.21.3"
   }
 }
