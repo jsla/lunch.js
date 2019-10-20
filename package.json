@@ -12,6 +12,6 @@
   "license": "MIT",
   "devDependencies": {
     "serve": "^1.4.0",
-    "surge": "^0.18.0"
+    "surge": "^0.21.3"
   }
 }
