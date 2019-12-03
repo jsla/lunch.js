@@ -42,7 +42,13 @@
     "lint-staged": "^9.5.0",
     "prettier": "^1.19.1",
     "prettier-eslint": "^9.0.1",
-    "prettier-eslint-cli": "^5.0.0"
+    "prettier-eslint-cli": "^5.0.0",
+    "stylelint": "^12.0.0",
+    "stylelint-a11y": "^1.2.2",
+    "stylelint-config-prettier": "^7.0.0",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.9.0"
   },
   "keywords": [
     "gatsby"
@@ -56,7 +62,9 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "lint": "eslint --ext js,jsx ./src"
+    "lint": "npm run lint:js && npm run lint:css",
+    "lint:js": "eslint --ext js,jsx ./src",
+    "lint:css": "stylelint './src/**/*.{js,jsx}'"
   },
   "repository": {
     "type": "git",
