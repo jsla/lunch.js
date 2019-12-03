@@ -6,7 +6,7 @@
   "author": "Angus Perkerson <angus@js.la>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
-    "gatsby": "^2.17.11",
+    "gatsby": "^2.19.12",
     "gatsby-image": "^2.2.31",
     "gatsby-plugin-manifest": "^2.2.27",
     "gatsby-plugin-offline": "^3.0.19",
