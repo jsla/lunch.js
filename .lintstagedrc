@@ -1,5 +1,5 @@
 "*.{js,jsx}":
-  - stylelint --fix
+  - stylelint
   - prettier-eslint --write
   - eslint --fix
   - git add
