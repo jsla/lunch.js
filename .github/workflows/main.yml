@@ -3,41 +3,16 @@ name: CI
 on: [push]
 
 jobs:
-  install:
-    name: Install Dependencies
+  build:
+    name: Build
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v1
       - name: Install Dependencies
         run: npm ci
-      - name: Upload Dependencies
-        uses: actions/upload-artifact@v1
-        with:
-          name: dependencies
-          path: node_modules
-
-  lint:
-    name: Lint
-    needs: install
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download Dependencies
-        uses: actions/download-artifact@v1
-        with:
-          name: dependencies
       - name: Lint
         run: npm run lint
-
-  build:
-    name: Build
-    needs: install
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download Dependencies
-        uses: actions/download-artifact@v1
-        with:
-          name: dependencies
       - name: Build
         run: npm run build
         env:
