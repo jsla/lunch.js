@@ -1,17 +1,50 @@
 {
-  "name": "lunch.js.la",
-  "version": "1.0.0",
-  "description": "Lunch.js Website",
-  "main": "index.js",
-  "scripts": {
-    "start": "serve public",
-    "deploy": "surge public"
+  "name": "lunch.js",
+  "private": true,
+  "description": "The Lunch.js.la website",
+  "version": "0.1.0",
+  "author": "Angus Perkerson <angus@js.la>",
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.6",
+    "gatsby": "^2.17.11",
+    "gatsby-image": "^2.2.31",
+    "gatsby-plugin-manifest": "^2.2.27",
+    "gatsby-plugin-offline": "^3.0.19",
+    "gatsby-plugin-react-helmet": "^3.1.14",
+    "gatsby-plugin-sharp": "^2.2.37",
+    "gatsby-plugin-styled-components": "^3.1.13",
+    "gatsby-source-filesystem": "^2.1.36",
+    "gatsby-transformer-sharp": "^2.3.3",
+    "grommet": "^2.8.0",
+    "polished": "^3.4.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1",
+    "styled-components": "^4.4.1",
+    "styled-normalize": "^8.0.6"
   },
-  "keywords": [],
-  "author": "David Guttman <david@guttman.io> (http://davidguttman.com/)",
-  "license": "MIT",
   "devDependencies": {
-    "serve": "^11.2.0",
-    "surge": "^0.21.3"
+    "prettier": "^1.19.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anguspiv/lunch.js"
+  },
+  "bugs": {
+    "url": "https://github.com/anguspiv/lunch.js/issues"
   }
 }

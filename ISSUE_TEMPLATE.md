@@ -6,6 +6,7 @@
 
 
 Championed By: ${ YOUR NAME } ${ @github-username }
+
 <!--
 As the champion you can pick a place,
   or be really cool and make a poll!
