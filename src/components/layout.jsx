@@ -45,7 +45,7 @@ const Layout = ({ children }) => {
             { name: 'footer', start: [0, 2], end: [1, 2] },
           ]}
         >
-          <Box gridArea="main" justify="center" align="center">
+          <Box gridArea="main" justify="center" align="center" as="main">
             {children}
           </Box>
           <Box
@@ -53,6 +53,7 @@ const Layout = ({ children }) => {
             justify="center"
             align="center"
             pad={{ horizontal: 'large', vertical: 'small' }}
+            as="footer"
           >
             © 
             {' '}

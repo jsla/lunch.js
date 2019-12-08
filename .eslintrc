@@ -1,4 +1,4 @@
 {
-  "extends": ["airbnb", "prettier"],
-  "plugins": ["prettier"]
+  "extends": ["airbnb", "prettier", "plugin:cypress/recommended"],
+  "plugins": ["prettier", "cypress"]
 }
