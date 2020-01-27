@@ -6,7 +6,10 @@
   "author": "Angus Perkerson <angus@js.la>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
+    "framer": "^1.1.7",
+    "framer-motion": "^1.8.4",
     "gatsby": "^2.19.12",
+    "gatsby-background-image": "^0.9.14",
     "gatsby-image": "^2.2.31",
     "gatsby-plugin-manifest": "^2.2.27",
     "gatsby-plugin-offline": "^3.0.19",
@@ -21,6 +24,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
+    "sharp": "^0.23.4",
     "styled-components": "^4.4.1",
     "styled-normalize": "^8.0.6"
   },
@@ -52,8 +56,10 @@
     "stylelint": "^12.0.0",
     "stylelint-a11y": "^1.2.2",
     "stylelint-config-prettier": "^7.0.0",
+    "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-recommended": "^3.0.0",
     "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-order": "^3.1.1",
     "stylelint-processor-styled-components": "^1.9.0"
   },
   "keywords": [

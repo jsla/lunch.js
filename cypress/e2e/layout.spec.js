@@ -4,6 +4,6 @@ describe('Home Page Test', () => {
   });
   it('Should display a current copyright', () => {
     const year = new Date().getFullYear();
-    cy.get('footer').contains(`© ${year}`);
+    cy.get('footer').contains(`© JS.LA ${year}`);
   });
 });
