@@ -56,7 +56,9 @@ typings/
 
 # gatsby files
 .cache/
-public
+
+# temporarily added to allow for transitional stage
+# public 
 
 # Mac files
 .DS_Store
