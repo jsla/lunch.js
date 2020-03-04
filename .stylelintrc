@@ -9,5 +9,6 @@
   ],
   "plugins": [
     "stylelint-a11y"
-  ]
+  ],
+  "ignoreFiles": ["public/**/*"]
 }
