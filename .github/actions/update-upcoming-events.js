@@ -21,13 +21,13 @@ const dateNextEvent = getDateOfNextEvent();
 run();
 
 async function run() {
-  // Create Octokit constructor with .paginate API and custom user agent
+  // Create Octokit constructor with custom user agent
   const octokit = new Octokit({
     auth: process.env.GITHUB_TOKEN,
     userAgent: "lunch.js.la",
   });
 
-  // load all open issues with the `show` label
+  // load all open issues with the `lunch.js event` label
   const issues = await octokit.paginate("GET /repos/{owner}/{repo}/issues", {
     owner,
     repo,
@@ -36,15 +36,14 @@ async function run() {
     per_page: 100,
   });
 
-  const upcomingEvents = [];
-  for (const issue of issues) {
+  const upcomingEvents = issues.map((issue) => {
     const [location] = issue.title.split(/\s+-\s+/g);
 
-    upcomingEvents.push({
+    return {
       issue,
       location,
-    });
-  }
+    };
+  });
 
   // Create markdown code for both show sectiosn
   const upcomingEventsText = upcomingEvents
@@ -69,13 +68,11 @@ ${upcomingEventsText}`;
     message: "docs(README): update upcoming shows",
   });
 
-  console.log(markdown);
   console.log("README updated in %s/%s", owner, repo);
 }
 
 /**
- *
- * @param {import('dayjs')} day
+ * @param {import('dayjs').Dayjs} day
  */
 function getFirstTuesdayOfMonth(day) {
   const tuesday = day.isoWeekday(9);
@@ -87,6 +84,9 @@ function getFirstTuesdayOfMonth(day) {
   return tuesday;
 }
 
+/**
+ * @returns {import('dayjs').Dayjs}
+ */
 function getDateOfNextEvent() {
   const today = dayjs().startOf("day").tz("America/Los_Angeles");
 
