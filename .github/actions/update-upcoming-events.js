@@ -46,11 +46,13 @@ async function run() {
   });
 
   // Create markdown code for both show sectiosn
-  const upcomingEventsText = upcomingEvents
-    .map(({ location, issue }) => {
-      return `- [#${issue.number}](${issue.html_url}) ${location}, championed by [@${issue.user.login}](${issue.user.html_url})`;
-    })
-    .join("\n");
+  const upcomingEventsText = upcomingEvents.length
+    ? upcomingEvents
+        .map(({ location, issue }) => {
+          return `- [#${issue.number}](${issue.html_url}) ${location}, championed by [@${issue.user.login}](${issue.user.html_url})`;
+        })
+        .join("\n")
+    : "There are currently no upcoming events scheduled.";
 
   markdown = `## Join lunch.js on ${dateNextEvent.format(
     "MMM d, YYYY [at] H:mma"
