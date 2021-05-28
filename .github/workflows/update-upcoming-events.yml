@@ -10,6 +10,10 @@ on:
       - labeled
       - unlabeled
 
+  # every day at 4am pacific time
+  schedule:
+    - cron: "0 12 * * *"
+
   workflow_dispatch: {}
 
 jobs:
