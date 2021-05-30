@@ -1,0 +1,30 @@
+name: "Update shows in README"
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - closed
+      - reopened
+      - labeled
+      - unlabeled
+
+  # every day at 4am pacific time
+  schedule:
+    - cron: "0 12 * * *"
+
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - run: npm ci
+      - run: node .github/actions/update-upcoming-events.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

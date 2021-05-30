@@ -11,6 +11,9 @@
   "author": "David Guttman <david@guttman.io> (http://davidguttman.com/)",
   "license": "MIT",
   "devDependencies": {
+    "dayjs": "^1.10.5",
+    "octokit": "^1.0.5",
+    "readme-box": "^0.2.0",
     "serve": "^11.2.0",
     "surge": "^0.21.3"
   }
