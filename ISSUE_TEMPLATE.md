@@ -1,7 +1,7 @@
 <!-- PLEASE FILL IN ALL AND REMOVE ALL `${ }` -->
-<!-- TITLE EXAMPLE: `${ Location } - ${ January 1st, 2020 }` -->
+<!-- TITLE EXAMPLE: `${ Location } - ${ January 1, 2020 }` -->
 # ${ DTLA, Santa Monica, Culver City, Playa Vista, Thousand Oaks, West Hollywood, Burbank }
-### Next lunch is Tuesday, ${ January 1st, 2020 } at 12:30 PM
+### Next lunch is Tuesday, ${ January 1, 2020 } at 12:30 PM
 ### @ ${ Location }
 
 
