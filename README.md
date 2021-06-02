@@ -13,11 +13,9 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-
-## Join lunch.js on June 1st, 2021 at 12:30pm
-
-- [#277](https://github.com/jsla/lunch.js/issues/277) Online, hosted by [@anguspiv](https://github.com/anguspiv)
-
+## Join lunch.js on Jul 2, 2021 at 12:30pm
+  
+- [#277](https://github.com/jsla/lunch.js/issues/277) Online / Ramb.ly, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
