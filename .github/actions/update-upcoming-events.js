@@ -54,7 +54,7 @@ async function run() {
         .join("\n")
     : "There are currently no upcoming events scheduled.";
 
-  markdown = `## Join lunch.js on ${dateNextEvent.format(
+  const markdown = `## Join lunch.js on ${dateNextEvent.format(
     "MMM d, YYYY [at] H:mma"
   )}
   
