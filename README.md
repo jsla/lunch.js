@@ -15,7 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Jul 2, 2021 at 12:30pm
   
-There are currently no upcoming events scheduled.
+- [#286](https://github.com/jsla/lunch.js/issues/286) Ramb.ly/lunch.js, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
