@@ -25,9 +25,7 @@ Every lunch.js event is organized using an issue in this repository ([example](h
 
 ## How to create a lunch.js event
 
-**Note:** Due to COVID, we are currently not looking for new champions. For the time being, we are hosting an online version. But please stay tuned! Watch this repository to get notified once we start in-person events again.
-
-~~If there is no lunch.js in your neighbourhood yet, become a champion and create one yourself! [Create an issue](https://github.com/jsla/lunch.js/issues/new) and learn [what it means to be a champion](https://github.com/jsla/lunch.js/blob/master/CONTRIBUTING.md#readme)).~~
+If there is no lunch.js in your neighbourhood yet, become a champion and create one yourself! [Create an issue](https://github.com/jsla/lunch.js/issues/new) and learn [what it means to be a champion](https://github.com/jsla/lunch.js/blob/master/CONTRIBUTING.md#readme)).
 
 ## How to maintain the entire lunch.js event series
 
