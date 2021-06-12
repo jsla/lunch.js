@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Jul 6, 2021 at 12:30pm
   
+- [#289](https://github.com/jsla/lunch.js/issues/289) Burbank, championed by [@powernerd](https://github.com/powernerd)
 - [#286](https://github.com/jsla/lunch.js/issues/286) Ramb.ly/lunch.js, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
