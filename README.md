@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Jul 6, 2021 at 12:30pm
   
+- [#291](https://github.com/jsla/lunch.js/issues/291) Woodland Hills, championed by [@StevenKitzes](https://github.com/StevenKitzes)
 - [#290](https://github.com/jsla/lunch.js/issues/290) DTLA, championed by [@JakeDluhy](https://github.com/JakeDluhy)
 - [#289](https://github.com/jsla/lunch.js/issues/289) Burbank, championed by [@powernerd](https://github.com/powernerd)
 - [#286](https://github.com/jsla/lunch.js/issues/286) Ramb.ly/lunch.js, championed by [@anguspiv](https://github.com/anguspiv)
