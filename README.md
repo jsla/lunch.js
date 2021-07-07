@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Jul 6, 2021 at 12:30pm
+## Join lunch.js on Aug 3, 2021 at 12:30pm
   
 - [#292](https://github.com/jsla/lunch.js/issues/292) Los Feliz, championed by [@jjandoc](https://github.com/jjandoc)
 - [#291](https://github.com/jsla/lunch.js/issues/291) Woodland Hills, championed by [@StevenKitzes](https://github.com/StevenKitzes)
