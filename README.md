@@ -15,7 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Aug 3, 2021 at 12:30pm
   
-There are currently no upcoming events scheduled.
+- [#294](https://github.com/jsla/lunch.js/issues/294) Los Feliz, championed by [@jjandoc](https://github.com/jjandoc)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
