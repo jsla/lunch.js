@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Aug 3, 2021 at 12:30pm
   
+- [#295](https://github.com/jsla/lunch.js/issues/295) Mar Vista, championed by [@anguspiv](https://github.com/anguspiv)
 - [#294](https://github.com/jsla/lunch.js/issues/294) Los Feliz, championed by [@jjandoc](https://github.com/jjandoc)
 <!--END_SECTION:events-->
 
