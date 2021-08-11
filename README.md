@@ -15,8 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Sep 7, 2021 at 12:30pm
   
-- [#295](https://github.com/jsla/lunch.js/issues/295) Mar Vista, championed by [@anguspiv](https://github.com/anguspiv)
-- [#294](https://github.com/jsla/lunch.js/issues/294) Los Feliz, championed by [@jjandoc](https://github.com/jjandoc)
+- [#296](https://github.com/jsla/lunch.js/issues/296) Calling All Champions! September 7th, 2021, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
