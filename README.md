@@ -16,7 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Sep 7, 2021 at 12:30pm
   
 - [#299](https://github.com/jsla/lunch.js/issues/299) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
-- [#298](https://github.com/jsla/lunch.js/issues/298) North Hollywood, championed by [@ultamatt](https://github.com/ultamatt)
 - [#297](https://github.com/jsla/lunch.js/issues/297) Redondo Beach, championed by [@swatana3](https://github.com/swatana3)
 - [#296](https://github.com/jsla/lunch.js/issues/296) Calling All Champions! September 7th, 2021, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
