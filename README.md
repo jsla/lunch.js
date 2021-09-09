@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Oct 5, 2021 at 12:30pm
   
+- [#301](https://github.com/jsla/lunch.js/issues/301) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 - [#296](https://github.com/jsla/lunch.js/issues/296) Calling All Champions! September 7th, 2021, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
