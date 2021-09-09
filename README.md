@@ -15,9 +15,6 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Oct 5, 2021 at 12:30pm
   
-- [#300](https://github.com/jsla/lunch.js/issues/300) Los Feliz, championed by [@jjandoc](https://github.com/jjandoc)
-- [#299](https://github.com/jsla/lunch.js/issues/299) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
-- [#297](https://github.com/jsla/lunch.js/issues/297) Redondo Beach, championed by [@swatana3](https://github.com/swatana3)
 - [#296](https://github.com/jsla/lunch.js/issues/296) Calling All Champions! September 7th, 2021, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
