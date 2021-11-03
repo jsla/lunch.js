@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Nov 2, 2021 at 12:30pm
+## Join lunch.js on Dec 7, 2021 at 12:30pm
   
 - [#306](https://github.com/jsla/lunch.js/issues/306) Los Feliz, championed by [@jjandoc](https://github.com/jjandoc)
 - [#304](https://github.com/jsla/lunch.js/issues/304) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
