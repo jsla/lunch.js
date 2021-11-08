@@ -15,7 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Dec 7, 2021 at 12:30pm
   
-- [#306](https://github.com/jsla/lunch.js/issues/306) Los Feliz, championed by [@jjandoc](https://github.com/jjandoc)
+There are currently no upcoming events scheduled.
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
