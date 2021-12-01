@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Dec 7, 2021 at 12:30pm
   
+- [#308](https://github.com/jsla/lunch.js/issues/308) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 - [#307](https://github.com/jsla/lunch.js/issues/307) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
