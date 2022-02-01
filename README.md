@@ -16,7 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Feb 1, 2022 at 12:30pm
   
 - [#314](https://github.com/jsla/lunch.js/issues/314) Los Feliz, championed by [@jjandoc](https://github.com/jjandoc)
-- [#313](https://github.com/jsla/lunch.js/issues/313) Woodland Hills, championed by [@JeremiahReichardt](https://github.com/JeremiahReichardt)
 - [#312](https://github.com/jsla/lunch.js/issues/312) South Bay, championed by [@acdoyle630](https://github.com/acdoyle630)
 - [#311](https://github.com/jsla/lunch.js/issues/311) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 - [#310](https://github.com/jsla/lunch.js/issues/310) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
