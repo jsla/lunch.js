@@ -15,10 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Mar 1, 2022 at 12:30pm
   
-- [#314](https://github.com/jsla/lunch.js/issues/314) Los Feliz, championed by [@jjandoc](https://github.com/jjandoc)
-- [#312](https://github.com/jsla/lunch.js/issues/312) South Bay, championed by [@acdoyle630](https://github.com/acdoyle630)
-- [#311](https://github.com/jsla/lunch.js/issues/311) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
-- [#310](https://github.com/jsla/lunch.js/issues/310) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
+There are currently no upcoming events scheduled.
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
