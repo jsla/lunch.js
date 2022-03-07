@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Apr 5, 2022 at 12:30pm
   
+- [#319](https://github.com/jsla/lunch.js/issues/319) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 - [#318](https://github.com/jsla/lunch.js/issues/318) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
