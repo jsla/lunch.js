@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Jun 7, 2022 at 12:30pm
+## Join lunch.js on Jul 5, 2022 at 12:30pm
   
 - [#328](https://github.com/jsla/lunch.js/issues/328) NoHo, championed by [@mikeyamato](https://github.com/mikeyamato)
 - [#327](https://github.com/jsla/lunch.js/issues/327) Atwater Village, championed by [@jjandoc](https://github.com/jjandoc)
