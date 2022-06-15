@@ -15,10 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Jul 5, 2022 at 12:30pm
   
-- [#328](https://github.com/jsla/lunch.js/issues/328) NoHo, championed by [@mikeyamato](https://github.com/mikeyamato)
-- [#327](https://github.com/jsla/lunch.js/issues/327) Atwater Village, championed by [@jjandoc](https://github.com/jjandoc)
-- [#326](https://github.com/jsla/lunch.js/issues/326) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
-- [#325](https://github.com/jsla/lunch.js/issues/325) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
+There are currently no upcoming events scheduled.
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
