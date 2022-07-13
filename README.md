@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Aug 2, 2022 at 12:30pm
   
+- [#335](https://github.com/jsla/lunch.js/issues/335) Santa Monica, championed by [@jcblw](https://github.com/jcblw)
 - [#334](https://github.com/jsla/lunch.js/issues/334) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
