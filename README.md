@@ -15,7 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Aug 2, 2022 at 12:30pm
   
-There are currently no upcoming events scheduled.
+- [#334](https://github.com/jsla/lunch.js/issues/334) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
