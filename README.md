@@ -15,9 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Sep 6, 2022 at 12:30pm
   
-- [#337](https://github.com/jsla/lunch.js/issues/337) Atwater Village, championed by [@jjandoc](https://github.com/jjandoc)
 - [#335](https://github.com/jsla/lunch.js/issues/335) Santa Monica, championed by [@jcblw](https://github.com/jcblw)
-- [#334](https://github.com/jsla/lunch.js/issues/334) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
