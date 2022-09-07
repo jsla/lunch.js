@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Sep 6, 2022 at 12:30pm
+## Join lunch.js on Oct 4, 2022 at 12:30pm
   
 - [#339](https://github.com/jsla/lunch.js/issues/339) Culver City, championed by [@anguspiv](https://github.com/anguspiv)
 - [#338](https://github.com/jsla/lunch.js/issues/338) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
