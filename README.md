@@ -16,7 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Oct 4, 2022 at 12:30pm
   
 - [#341](https://github.com/jsla/lunch.js/issues/341) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
-- [#339](https://github.com/jsla/lunch.js/issues/339) Culver City, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
