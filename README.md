@@ -17,7 +17,6 @@ It's an opportunity to
   
 - [#344](https://github.com/jsla/lunch.js/issues/344) Santa Monica, championed by [@yowainwright](https://github.com/yowainwright)
 - [#343](https://github.com/jsla/lunch.js/issues/343) South Bay, championed by [@etnlbck](https://github.com/etnlbck)
-- [#342](https://github.com/jsla/lunch.js/issues/342) Culver City, championed by [@anguspiv](https://github.com/anguspiv)
 - [#341](https://github.com/jsla/lunch.js/issues/341) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
