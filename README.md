@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Oct 4, 2022 at 12:30pm
+## Join lunch.js on Nov 1, 2022 at 12:30pm
   
 - [#344](https://github.com/jsla/lunch.js/issues/344) Santa Monica, championed by [@yowainwright](https://github.com/yowainwright)
 - [#343](https://github.com/jsla/lunch.js/issues/343) South Bay, championed by [@etnlbck](https://github.com/etnlbck)
