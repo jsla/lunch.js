@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Feb 7, 2023 at 12:30pm
   
+- [#360](https://github.com/jsla/lunch.js/issues/360) Santa Monica, championed by [@yowainwright](https://github.com/yowainwright)
 - [#358](https://github.com/jsla/lunch.js/issues/358) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
