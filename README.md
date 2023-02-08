@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Feb 7, 2023 at 12:30pm
+## Join lunch.js on Mar 7, 2023 at 12:30pm
   
 - [#362](https://github.com/jsla/lunch.js/issues/362) Mar Vista, championed by [@gr2m](https://github.com/gr2m)
 - [#360](https://github.com/jsla/lunch.js/issues/360) Santa Monica, championed by [@yowainwright](https://github.com/yowainwright)
