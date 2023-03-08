@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Mar 7, 2023 at 12:30pm
+## Join lunch.js on Apr 4, 2023 at 12:30pm
   
 - [#367](https://github.com/jsla/lunch.js/issues/367) Atwater Village, championed by [@jjandoc](https://github.com/jjandoc)
 - [#366](https://github.com/jsla/lunch.js/issues/366) Santa Monica, championed by [@jcblw](https://github.com/jcblw)
