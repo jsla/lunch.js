@@ -15,9 +15,6 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Apr 4, 2023 at 12:30pm
   
-- [#367](https://github.com/jsla/lunch.js/issues/367) Atwater Village, championed by [@jjandoc](https://github.com/jjandoc)
-- [#366](https://github.com/jsla/lunch.js/issues/366) Santa Monica, championed by [@jcblw](https://github.com/jcblw)
-- [#365](https://github.com/jsla/lunch.js/issues/365) Mar Vista, championed by [@gr2m](https://github.com/gr2m)
 - [#364](https://github.com/jsla/lunch.js/issues/364) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
