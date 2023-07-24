@@ -15,8 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Aug 1, 2023 at 12:30pm
   
-- [#379](https://github.com/jsla/lunch.js/issues/379) Atwater Village, championed by [@jjandoc](https://github.com/jjandoc)
-- [#378](https://github.com/jsla/lunch.js/issues/378) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
+- [#380](https://github.com/jsla/lunch.js/issues/380) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 - [#377](https://github.com/jsla/lunch.js/issues/377) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
