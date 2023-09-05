@@ -15,7 +15,6 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Sep 5, 2023 at 12:30pm
   
-- [#384](https://github.com/jsla/lunch.js/issues/384) Santa Monica, championed by [@donovangomez](https://github.com/donovangomez)
 - [#382](https://github.com/jsla/lunch.js/issues/382) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
