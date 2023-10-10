@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Nov 7, 2023 at 12:30pm
   
+- [#388](https://github.com/jsla/lunch.js/issues/388) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 - [#385](https://github.com/jsla/lunch.js/issues/385) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
