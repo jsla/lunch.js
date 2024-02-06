@@ -16,7 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Feb 6, 2024 at 12:30pm
   
 - [#395](https://github.com/jsla/lunch.js/issues/395) 🌹 🚃 🚲 Pasadena, championed by [@machikoyasuda](https://github.com/machikoyasuda)
-- [#394](https://github.com/jsla/lunch.js/issues/394) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 - [#393](https://github.com/jsla/lunch.js/issues/393) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
