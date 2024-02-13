@@ -17,7 +17,6 @@ It's an opportunity to
   
 - [#397](https://github.com/jsla/lunch.js/issues/397) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 - [#396](https://github.com/jsla/lunch.js/issues/396) Pasadena / South Pasadena, championed by [@danvgar](https://github.com/danvgar)
-- [#393](https://github.com/jsla/lunch.js/issues/393) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
