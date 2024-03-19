@@ -17,8 +17,6 @@ It's an opportunity to
   
 - [#400](https://github.com/jsla/lunch.js/issues/400) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 - [#399](https://github.com/jsla/lunch.js/issues/399) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
-- [#397](https://github.com/jsla/lunch.js/issues/397) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
-- [#396](https://github.com/jsla/lunch.js/issues/396) Pasadena / South Pasadena, championed by [@danvgar](https://github.com/danvgar)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
