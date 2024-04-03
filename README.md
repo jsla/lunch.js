@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Apr 2, 2024 at 12:30pm
+## Join lunch.js on May 7, 2024 at 12:30pm
   
 - [#401](https://github.com/jsla/lunch.js/issues/401) 🌹 🚃 🚲 Pasadena, championed by [@danvgar](https://github.com/danvgar)
 - [#399](https://github.com/jsla/lunch.js/issues/399) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
