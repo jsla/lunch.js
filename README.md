@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on May 7, 2024 at 12:30pm
   
+- [#403](https://github.com/jsla/lunch.js/issues/403) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 - [#402](https://github.com/jsla/lunch.js/issues/402) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
