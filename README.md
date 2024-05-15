@@ -16,8 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Jun 4, 2024 at 12:30pm
   
 - [#405](https://github.com/jsla/lunch.js/issues/405) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
-- [#404](https://github.com/jsla/lunch.js/issues/404) 🌹 🚃 🚲 Pasadena, championed by [@danvgar](https://github.com/danvgar)
-- [#402](https://github.com/jsla/lunch.js/issues/402) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
