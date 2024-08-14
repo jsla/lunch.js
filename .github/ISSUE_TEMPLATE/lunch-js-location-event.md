@@ -13,7 +13,6 @@ assignees: ''
 ### Next lunch is Tuesday, ${ January 1, 2020 } at 12:30 PM
 ### @ ${ Location }
 
-
 Championed By: ${ YOUR NAME } ${ @github-username }
 <!--
 As the champion you can pick a place,
@@ -38,3 +37,5 @@ NOTE: these are the ONLY emoji that are available as GitHub reactions
 -->
 
 If you are planning to attend subscribe to the issue to get notifications for new comments.
+
+As a reminder, Lunch.js events follow the [JS.LA Code of Conduct](https://js.la/code-of-conduct). Please let your champion know, or reach out to [Angus Perkerson](mailto:angusp@angusp.com) or any [JS.LA Team Member](https://js.la/team) for any violation or incident, and we will take appropriate action.
