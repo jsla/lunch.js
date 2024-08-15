@@ -12,6 +12,8 @@ Hey Everyone,
 The next first Tuesday of the month is ${date}
 Please create new issues when you get the chance.
 
+As a reminder, Lunch.js events follow the [JS.LA Code of Conduct](https://js.la/code-of-conduct). We ask that our champions help guests adhere to the Code of Conduct, and let guests know they can reach out to [Angus Perkerson](mailto:angusp@angusp.com) or any [JS.LA Team Member](https://js.la/team). 
+
 Note that Lunch.js runs much smoother when each location has two champions. Feel free to share champion duties with another member of your lunch location!
 
 Previous Lunch Locations
