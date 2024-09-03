@@ -18,7 +18,6 @@ It's an opportunity to
 - [#419](https://github.com/jsla/lunch.js/issues/419) Pasadena, championed by [@dcotelessa](https://github.com/dcotelessa)
 - [#418](https://github.com/jsla/lunch.js/issues/418) Culver City, championed by [@higgins](https://github.com/higgins)
 - [#417](https://github.com/jsla/lunch.js/issues/417) Manhattan Beach, championed by [@etnlbck](https://github.com/etnlbck)
-- [#416](https://github.com/jsla/lunch.js/issues/416) Baldwin Hills / Crenshaw / Leimert Park, championed by [@jarrettch](https://github.com/jarrettch)
 - [#414](https://github.com/jsla/lunch.js/issues/414) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
