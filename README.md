@@ -16,10 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Oct 1, 2024 at 12:30pm
   
 - [#420](https://github.com/jsla/lunch.js/issues/420) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
-- [#419](https://github.com/jsla/lunch.js/issues/419) Pasadena, championed by [@dcotelessa](https://github.com/dcotelessa)
-- [#418](https://github.com/jsla/lunch.js/issues/418) Culver City, championed by [@higgins](https://github.com/higgins)
-- [#417](https://github.com/jsla/lunch.js/issues/417) Manhattan Beach, championed by [@etnlbck](https://github.com/etnlbck)
-- [#414](https://github.com/jsla/lunch.js/issues/414) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
