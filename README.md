@@ -15,7 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Dec 3, 2024 at 12:30pm
   
-There are currently no upcoming events scheduled.
+- [#423](https://github.com/jsla/lunch.js/issues/423) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
