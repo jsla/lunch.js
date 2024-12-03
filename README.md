@@ -16,7 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Dec 3, 2024 at 12:30pm
   
 - [#425](https://github.com/jsla/lunch.js/issues/425) 🌹 🚃 🚲 Pasadena, championed by [@danvgar](https://github.com/danvgar)
-- [#424](https://github.com/jsla/lunch.js/issues/424) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 - [#423](https://github.com/jsla/lunch.js/issues/423) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
