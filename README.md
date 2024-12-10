@@ -16,7 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Jan 7, 2025 at 12:30pm
   
 - [#426](https://github.com/jsla/lunch.js/issues/426) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
-- [#423](https://github.com/jsla/lunch.js/issues/423) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
