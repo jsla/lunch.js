@@ -15,7 +15,6 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Jan 7, 2025 at 12:30pm
   
-- [#425](https://github.com/jsla/lunch.js/issues/425) 🌹 🚃 🚲 Pasadena, championed by [@danvgar](https://github.com/danvgar)
 - [#423](https://github.com/jsla/lunch.js/issues/423) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
