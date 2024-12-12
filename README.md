@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Jan 7, 2025 at 12:30pm
   
+- [#427](https://github.com/jsla/lunch.js/issues/427) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 - [#426](https://github.com/jsla/lunch.js/issues/426) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
