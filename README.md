@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Feb 4, 2025 at 12:30pm
   
+- [#430](https://github.com/jsla/lunch.js/issues/430) Eagle Rock, championed by [@jjandoc](https://github.com/jjandoc)
 - [#429](https://github.com/jsla/lunch.js/issues/429) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 - [#428](https://github.com/jsla/lunch.js/issues/428) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
