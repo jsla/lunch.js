@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Feb 4, 2025 at 12:30pm
+## Join lunch.js on Mar 4, 2025 at 12:30pm
   
 - [#430](https://github.com/jsla/lunch.js/issues/430) Eagle Rock, championed by [@jjandoc](https://github.com/jjandoc)
 - [#429](https://github.com/jsla/lunch.js/issues/429) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
