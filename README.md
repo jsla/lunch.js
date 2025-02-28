@@ -16,7 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Mar 4, 2025 at 12:30pm
   
 - [#434](https://github.com/jsla/lunch.js/issues/434) 🌹 🚃 🚲 Pasadena, championed by [@danvgar](https://github.com/danvgar)
-- [#433](https://github.com/jsla/lunch.js/issues/433) 🌹 🚃 🚲 Pasadena, championed by [@danvgar](https://github.com/danvgar)
 - [#432](https://github.com/jsla/lunch.js/issues/432) Baldwin Hills / Crenshaw / Leimert Park, championed by [@jarrettch](https://github.com/jarrettch)
 - [#431](https://github.com/jsla/lunch.js/issues/431) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
