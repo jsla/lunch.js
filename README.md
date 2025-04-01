@@ -16,7 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Apr 1, 2025 at 12:30pm
   
 - [#436](https://github.com/jsla/lunch.js/issues/436) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
-- [#435](https://github.com/jsla/lunch.js/issues/435) 🖤 Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
