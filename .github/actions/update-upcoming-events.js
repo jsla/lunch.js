@@ -27,11 +27,11 @@ async function run() {
     userAgent: "lunch.js.la",
   });
 
-  // load all open issues with the `lunch.js event` label
+  // load all open issues with the `event` label
   const issues = await octokit.paginate("GET /repos/{owner}/{repo}/issues", {
     owner,
     repo,
-    labels: "lunch.js event",
+    labels: "event",
     state: "open",
     per_page: 100,
   });
