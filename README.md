@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on May 6, 2025 at 12:30pm
   
+- [#442](https://github.com/jsla/lunch.js/issues/442) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 - [#439](https://github.com/jsla/lunch.js/issues/439) 🖤 Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 - [#437](https://github.com/jsla/lunch.js/issues/437) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
