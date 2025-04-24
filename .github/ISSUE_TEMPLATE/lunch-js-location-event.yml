@@ -1,0 +1,90 @@
+name: Lunch.js Event
+description: Lunch.js Location Event Template
+title: "<neighborhood> - <date>"
+labels:
+  - event
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hey Everyone,
+
+        The next Lunch.js Event is Tuesday, 12:30pm:
+  - type: input
+    id: date
+    attributes:
+      label: Lunch.JS Date
+      description: The next first Tuesday of the month
+      placeholder: January 1, 2025
+    validations:
+      required: true
+
+  - type: input
+    id: neighborhood
+    attributes:
+      label: Neighborhood
+      description: The neighborhood of the lunch event (DTLA, Santa Monica, Culver City, etc.)
+      placeholder: Santa Monica
+    validations:
+      required: true
+
+  - type: input
+    id: champion
+    attributes:
+      label: Champion Name(s)
+      description: Your Name(s) and Github username(s)
+        (e.g., "Angus Perkerson @anguspiv")
+      placeholder: "Angus Perkerson @anguspiv"
+    validations:
+      required: true
+
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: |
+        Location of the lunch event (restaurant, park, etc.)
+        As the champion you can pick a place, or be really cool and
+        make a poll where people can vote on the location!
+        Use reaction emojis as to let people vote.
+        Including yelp links and addresses is helpful.
+        Possible reaction emojis:
+        :+1: thumbs up
+        :-1: thumbs down
+        :smile:
+        :tada:
+        :confused:
+        :heart:
+      placeholder: |
+        [Santa Monica Pier](https://www.santamonicapier.org/)
+        200 Santa Monica Pier
+        Santa Monica, CA 90401
+        or 
+        :+1: [Santa Monica Pier](https://www.santamonicapier.org/)
+        :-1: [Santa Monica Beach](https://www.santamonicabeach.org/)
+        :heart: [Vitos Pizza](https://www.vitospizza.com/)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: |
+        Provide any additional information about the lunch event, or comments you have.
+        Let others know how to identify you at lunch, so new Lunchers won't feel lost!
+      placeholder: |
+        I'll be the one with purple hair and red glasses
+
+  - type: markdown
+    attributes:
+      value: |
+        If you are planning to attend subscribe to the issue to get notifications for new comments.
+
+  - type: markdown
+    attributes:
+      value: |
+        As a reminder, Lunch.js events follow the [JS.LA Code of Conduct](https://js.la/code-of-conduct).
+        Please let your champion know, or reach out to [Angus Perkerson](mailto:angus.perkerson@example.com)
+        or any [JS.LA Team Member](https://js.la/team) if you have any questions or concerns.
