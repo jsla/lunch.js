@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Jun 3, 2025 at 12:30pm
   
+- [#453](https://github.com/jsla/lunch.js/issues/453) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 - [#452](https://github.com/jsla/lunch.js/issues/452) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 - [#442](https://github.com/jsla/lunch.js/issues/442) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 - [#437](https://github.com/jsla/lunch.js/issues/437) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
