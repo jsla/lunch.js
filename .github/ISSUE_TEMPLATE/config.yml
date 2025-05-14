@@ -1,0 +1,17 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Lunch.js Champion Guide
+    url: https://github.com/jsla/lunch.js/blob/master/CONTRIBUTING.md#readme
+    about: Information on how to be a Lunch.js champion and start a new location
+  - name: Lunch.js
+    url: https://lunch.js.la
+    about: The Lunch.js website
+  - name: JS.LA
+    url: https://js.la
+    about: The JS.LA website
+  - name: JS.LA Code of Conduct
+    url: https://js.la/code-of-conduct
+    about: The JS.LA Code of Conduct
+  - name: JS.LA Team
+    url: https://js.la/team
+    about: The JS.LA Team
