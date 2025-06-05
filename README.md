@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Jul 1, 2025 at 12:30pm
   
+- [#458](https://github.com/jsla/lunch.js/issues/458) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 - [#452](https://github.com/jsla/lunch.js/issues/452) Calling All Champions, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
