@@ -15,7 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Aug 5, 2025 at 12:30pm
   
-There are currently no upcoming events scheduled.
+- [#462](https://github.com/jsla/lunch.js/issues/462) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
