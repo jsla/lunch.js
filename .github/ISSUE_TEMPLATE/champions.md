@@ -25,6 +25,7 @@ Previous Lunch Locations:
 - Santa Monica
 - Baldwin Hills / Crenshaw / Leimert Park
 - Atwater Village / Eagle Rock
+- Pasadena
 
 pinging previous champions...
 
@@ -32,6 +33,7 @@ pinging previous champions...
 - @gr2m
 - @davidguttman
 - @jarrettch
+- @nyarly
 
 If anyone is unable to champion let me know or reach out to those that have attended your location to see if someone wants to step in. Comment on this thread if you need me to remove you from the above list of previous champions.
 
