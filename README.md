@@ -17,7 +17,6 @@ It's an opportunity to
   
 - [#469](https://github.com/jsla/lunch.js/issues/469) Pasadena, championed by [@nyarly](https://github.com/nyarly)
 - [#468](https://github.com/jsla/lunch.js/issues/468) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
-- [#466](https://github.com/jsla/lunch.js/issues/466) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
