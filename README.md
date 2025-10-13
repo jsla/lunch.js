@@ -16,7 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Nov 4, 2025 at 12:30pm
   
 - [#471](https://github.com/jsla/lunch.js/issues/471) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
-- [#469](https://github.com/jsla/lunch.js/issues/469) Pasadena, championed by [@nyarly](https://github.com/nyarly)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
