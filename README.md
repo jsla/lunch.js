@@ -15,7 +15,6 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Nov 4, 2025 at 12:30pm
   
-- [#476](https://github.com/jsla/lunch.js/issues/476) Baldwin Hills / Crenshaw / Leimert Park, championed by [@gr2m](https://github.com/gr2m)
 - [#474](https://github.com/jsla/lunch.js/issues/474) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
