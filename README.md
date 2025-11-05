@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Nov 4, 2025 at 12:30pm
+## Join lunch.js on Dec 2, 2025 at 12:30pm
   
 - [#474](https://github.com/jsla/lunch.js/issues/474) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
