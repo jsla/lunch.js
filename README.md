@@ -15,7 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Jan 6, 2026 at 12:30pm
   
-There are currently no upcoming events scheduled.
+- [#481](https://github.com/jsla/lunch.js/issues/481) Baldwin Hills / Crenshaw / Leimert Park, championed by [@jarrettch](https://github.com/jarrettch)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
