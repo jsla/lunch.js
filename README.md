@@ -13,10 +13,9 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Jan 6, 2026 at 12:30pm
+## Join lunch.js on Feb 3, 2026 at 12:30pm
   
 - [#482](https://github.com/jsla/lunch.js/issues/482) Santa Monica, championed by [@yowainwright](https://github.com/yowainwright)
-- [#481](https://github.com/jsla/lunch.js/issues/481) Baldwin Hills / Crenshaw / Leimert Park, championed by [@jarrettch](https://github.com/jarrettch)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
