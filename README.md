@@ -16,6 +16,7 @@ It's an opportunity to
 ## Join lunch.js on Mar 3, 2026 at 12:30pm
   
 - [#490](https://github.com/jsla/lunch.js/issues/490) Baldwin Hills / Crenshaw / Leimert Park, championed by [@jarrettch](https://github.com/jarrettch)
+- [#489](https://github.com/jsla/lunch.js/issues/489) Pasadena, championed by [@nyarly](https://github.com/nyarly)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
