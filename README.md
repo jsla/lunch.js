@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Mar 3, 2026 at 12:30pm
+## Join lunch.js on Apr 7, 2026 at 12:30pm
   
 - [#490](https://github.com/jsla/lunch.js/issues/490) Baldwin Hills / Crenshaw / Leimert Park, championed by [@jarrettch](https://github.com/jarrettch)
 - [#489](https://github.com/jsla/lunch.js/issues/489) Pasadena, championed by [@nyarly](https://github.com/nyarly)
