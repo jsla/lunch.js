@@ -16,7 +16,6 @@ It's an opportunity to
 ## Join lunch.js on Apr 7, 2026 at 12:30pm
   
 - [#492](https://github.com/jsla/lunch.js/issues/492) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
-- [#489](https://github.com/jsla/lunch.js/issues/489) Pasadena, championed by [@nyarly](https://github.com/nyarly)
 <!--END_SECTION:events-->
 
 ## How to join a lunch.js event
