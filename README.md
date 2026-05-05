@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on May 5, 2026 at 12:30pm
   
+- [#502](https://github.com/jsla/lunch.js/issues/502) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 - [#499](https://github.com/jsla/lunch.js/issues/499) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
