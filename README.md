@@ -13,7 +13,7 @@ It's an opportunity to
 - Have heated discussions about which framework is better (actually, please don't do this)
 
 <!--START_SECTION:events-->
-## Join lunch.js on Jul 7, 2026 at 12:30pm
+## Join lunch.js on Aug 4, 2026 at 12:30pm
   
 There are currently no upcoming events scheduled.
 <!--END_SECTION:events-->
