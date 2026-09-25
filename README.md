@@ -15,6 +15,7 @@ It's an opportunity to
 <!--START_SECTION:events-->
 ## Join lunch.js on Oct 6, 2026 at 12:30pm
   
+- [#516](https://github.com/jsla/lunch.js/issues/516) Baldwin Hills / Crenshaw / Leimert Park, championed by [@jarrettch](https://github.com/jarrettch)
 - [#515](https://github.com/jsla/lunch.js/issues/515) Santa Monica, championed by [@anguspiv](https://github.com/anguspiv)
 <!--END_SECTION:events-->
 
